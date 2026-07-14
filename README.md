@@ -59,11 +59,11 @@ After completing the preprocessing steps, the Titanic dataset became cleaner, mo
 
 ## Key Insights
 
-* Multiple columns contained missing values that required preprocessing.
-* The **Cabin** column had a high percentage of null values and was removed.
-* Duplicate records were identified and eliminated.
-* Data types were optimized to improve analysis efficiency.
-* Overall dataset quality and consistency improved significantly after preprocessing.
+* Data types were refined to improve analytical accuracy.
+* The Age column had multiple null entries.
+* A vast majority of the Cabin entries were missing.
+* All duplicate records were removed.
+* The resultent dataset is more refined and consistent making it reay for furthur analysis.
 
 ---
 
